@@ -1,0 +1,18 @@
+{
+  "name": "people-and-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A brief static site for People & Data",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}

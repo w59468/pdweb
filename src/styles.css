@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9f9f9;
+  color: #1d3f44;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.logo {
+  max-width: 300px;
+  margin: 2rem auto;
+}
+
+.what-we-do {
+  padding: 2rem;
+  background-color: #e9f0f2;
+  border-radius: 10px;
+  margin: 1rem;
+}
+
+footer {
+  margin-top: auto;
+  background-color: #1d3f44;
+  color: white;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
