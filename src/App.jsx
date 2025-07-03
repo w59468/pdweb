@@ -15,13 +15,14 @@ function App() {
             At People & Data, we empower organisations through data-driven insights and strategic human-centred solutions.
             From systems integration to analytics, we bridge the gap between people and technology.
           </p>
+          <p>email: info@peopleanddata.com.au</p>        
         </section>
+
       </main>
 
       <footer>
         <p>© {new Date().getFullYear()} People & Data. All rights reserved.</p>
-        <p>123 Innovation Road, Sydney, NSW, Australia</p>
-        <p>ABN: 12 345 678 901</p>
+        <p>Katoomba, NSW, Australia</p>
       </footer>
     </div>
   );
