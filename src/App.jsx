@@ -21,7 +21,7 @@ function App() {
       </main>
 
       <footer>
-        <p>© {new Date().getFullYear()} People & Data. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} People & Data Pty Limited. All rights reserved.</p>
         <p>Katoomba, NSW, Australia</p>
       </footer>
     </div>
